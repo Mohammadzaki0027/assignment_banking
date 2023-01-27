@@ -1,0 +1,6 @@
+{
+  "bank_acct": [
+    { "account_no": "ACC001", "name": "KELP", "balance": 5000, "id": 1 },
+    { "account_no": "ACC002", "name": "FVTPL", "balance": 1000, "id": 2 }
+  ]
+}
