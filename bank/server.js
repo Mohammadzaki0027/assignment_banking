@@ -21,7 +21,7 @@ program
         id: parseddata.bank_acct.length + 1,
       };
 
-      // check the account no and the name already is present in the database if yes then RETURN  else open new account the new data in the database
+      // check the account no and the name already is present in the database if yes then RETURN  else open new account and add the new data in the database
       let present = parseddata.bank_acct.filter((e) => {
         if (e.account_no === acctno || e.name === optional) {
           return e;
