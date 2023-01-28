@@ -1,7 +1,7 @@
 Here is the implementation Approach of Banking Application
 
 step first taking input from cli and according to input do some operation 
-
+Step no/Command :CREATE 
 First input is create the first check the name and account that enter by user already present in database if yes the show msg account no already exist enter different account no if account no is not present then open account and save in it database
 
 
