@@ -19,7 +19,7 @@ First the account that is enter is present in database or not if yes then destru
 Third type is :Withdrawl 
 <h4>The Command Line for the Withdraw  is like that</h4>
 <h1> node index.js WITHDRAW ACC01 10000</h1>
-<h1>The Command Line for the Account Create is like that   node index.js WITHDRAWL ACC01 10000</h1>
+
 First the account that is enter is present in database or not if yes then check the input is not string and check also the amount present in account is greater than the amount the user want to withdrawl 
 
 
