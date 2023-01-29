@@ -26,6 +26,6 @@ First the account that is enter is present in database or not if yes then check 
 Fourth type is :BALANCE
 <h4>The Command Line for the Show  is like that</h4>
 <h1> node index.js SHOW Acc01</h1>
-<h1>The Command Line for the Account Create is like that   node index.js SHOW ACC01</h1>
+
 So first check the account no is present in databased is exist or not if yes then show the respective balances 
 
